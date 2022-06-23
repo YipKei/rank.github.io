@@ -1,0 +1,166 @@
+.main {
+	overflow: hidden;
+	width: 100%;
+	height: auto;
+	background-color: black;
+	color: rgb(255, 255, 255);
+}
+
+.table {
+	padding: 0px;
+	margin: 0 auto;
+	text-align: center;
+	font-weight: 900;
+	border-collapse: collapse;
+	font-size: 0px;
+	white-space: nowrap;
+}
+
+.tr_title {
+	height: 42px;
+	font-size: 32px;
+	font-weight: 400;
+}
+
+.tr_word {
+	font-size: 105px;
+	font-family: "agency fb";
+	overflow: hidden;
+}
+
+.table tr {
+	line-height: 60px;
+}
+
+.imgHidden {
+	width: 55px;
+	height: 55px;
+	overflow: hidden;
+}
+
+.role {
+	width: 100px;
+	height: 100px;
+}
+
+.color_g {
+	background-color: #72A351;
+	color: rgb(255, 255, 255);
+}
+
+.color_b {
+	background-color: #5175B7;
+	color: rgb(255, 255, 255);
+}
+
+.color_y {
+	background-color: #E6B51A;
+	color: rgb(255, 255, 255);
+}
+
+.color_o {
+	background-color: #DA8144;
+	color: rgb(255, 255, 255);
+}
+
+.color_r {
+	background-color: #AD1313;
+	color: rgb(255, 255, 255);
+}
+
+.color_g_word {
+	font-size: 85px;
+	background-color: #72A351;
+	color: rgb(255, 255, 255);
+}
+
+.color_b_word {
+	font-size: 85px;
+	background-color: #5175B7;
+	color: rgb(255, 255, 255);
+}
+
+.color_y_word {
+	font-size: 85px;
+	background-color: #E6B51A;
+	color: rgb(255, 255, 255);
+}
+
+.color_o_word {
+	font-size: 85px;
+	background-color: #DA8144;
+	color: rgb(255, 255, 255);
+}
+
+.color_r_word {
+	font-size: 85px;
+	background-color: #AD1313;
+	color: rgb(255, 255, 255);
+}
+
+.color_g_word_min {
+	font-size: 60px;
+	background-color: #72A351;
+	color: rgb(255, 255, 255);
+}
+
+.color_b_word_min {
+	font-size: 60px;
+	background-color: #5175B7;
+	color: rgb(255, 255, 255);
+}
+
+.color_y_word_min {
+	font-size: 60px;
+	background-color: #E6B51A;
+	color: rgb(255, 255, 255);
+}
+
+.color_o_word_min {
+	font-size: 60px;
+	background-color: #DA8144;
+	color: rgb(255, 255, 255);
+}
+
+.color_r_word_min {
+	font-size: 60px;
+	background-color: #AD1313;
+	color: rgb(255, 255, 255);
+}
+
+.color_g_word_tiny {
+	line-height: 48px;
+	font-size: 48px;
+	background-color: #72A351;
+	color: rgb(255, 255, 255);
+}
+
+.color_b_word_tiny {
+	line-height: 48px;
+	font-size: 48px;
+	background-color: #5175B7;
+	color: rgb(255, 255, 255);
+}
+
+.color_y_word_tiny {
+	line-height: 48px;
+	font-size: 48px;
+	background-color: #E6B51A;
+	color: rgb(255, 255, 255);
+	
+}
+
+.color_o_word_tiny {
+	line-height: 48px;
+	font-size: 48px;
+	background-color: #DA8144;
+	color: rgb(255, 255, 255);
+}
+
+.color_r_word_tiny {
+	line-height: 48px;
+	font-size: 48px;
+	background-color: #AD1313;
+	color: rgb(255, 255, 255);
+}
+
